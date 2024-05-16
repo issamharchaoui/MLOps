@@ -19,5 +19,5 @@ jobs:
         run: |
           # Your ML workflow goes here
           pip install -r requirements.txt
-          python3 Scoring.py
+          python Scoring.py
 
